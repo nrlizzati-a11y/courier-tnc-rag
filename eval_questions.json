@@ -1,0 +1,18 @@
+[
+  {"id": "q1", "question": "What happens if my parcel is lost or damaged?", "expected_keywords": ["12.4", "liability"], "answerable": true},
+  {"id": "q2", "question": "My package never arrived, can I get my money back?", "expected_keywords": ["Compensation", "5.7"], "answerable": true},
+  {"id": "q3", "question": "Which items are prohibited from being shipped?", "expected_keywords": ["fresh food", "fragile"], "answerable": true},
+  {"id": "q4", "question": "How many days do I have to make a claim for a damaged parcel?", "expected_keywords": ["5 calendar days", "5.8"], "answerable": true},
+  {"id": "q5", "question": "How many days do I have to make a claim for a lost parcel?", "expected_keywords": ["30 calendar days", "5.8"], "answerable": true},
+  {"id": "q6", "question": "Can I send a bottle of perfume?", "expected_keywords": ["Prohibited", "Guideline"], "answerable": true},
+  {"id": "q7", "question": "How does SPX pay out compensation?", "expected_keywords": ["5.9", "bank account", "credit note"], "answerable": true},
+  {"id": "q8", "question": "Who is responsible for the shipment after it's delivered?", "expected_keywords": ["12.2", "risk"], "answerable": true},
+  {"id": "q9", "question": "What happens if delivery fails and no one is home?", "expected_keywords": ["5.14", "Unsuccessful Delivery"], "answerable": true},
+  {"id": "q10", "question": "Can SPX refuse to accept my shipment?", "expected_keywords": ["4.11", "refuse"], "answerable": true},
+  {"id": "q11", "question": "Can SPX open and inspect my package?", "expected_keywords": ["4.13", "inspect"], "answerable": true},
+  {"id": "q12", "question": "How do I contact customer service about a complaint?", "expected_keywords": ["5.5", "Customer Service"], "answerable": true},
+  {"id": "q13", "question": "Do you deliver parcels on Sundays?", "expected_keywords": [], "answerable": false},
+  {"id": "q14", "question": "Can I change my delivery instructions after booking?", "expected_keywords": ["4.6", "Delivery Instructions"], "answerable": true},
+  {"id": "q15", "question": "What currency are shipping fees charged in?", "expected_keywords": [], "answerable": false},
+  {"id": "q16", "question": "Is there a loyalty program for frequent senders?", "expected_keywords": [], "answerable": false}
+]

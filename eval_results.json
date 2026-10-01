@@ -1,0 +1,262 @@
+[
+  {
+    "strategy": "character",
+    "id": "q1",
+    "hit": false
+  },
+  {
+    "strategy": "character",
+    "id": "q2",
+    "hit": true
+  },
+  {
+    "strategy": "character",
+    "id": "q3",
+    "hit": true
+  },
+  {
+    "strategy": "character",
+    "id": "q4",
+    "hit": true
+  },
+  {
+    "strategy": "character",
+    "id": "q5",
+    "hit": true
+  },
+  {
+    "strategy": "character",
+    "id": "q6",
+    "hit": true
+  },
+  {
+    "strategy": "character",
+    "id": "q7",
+    "hit": true
+  },
+  {
+    "strategy": "character",
+    "id": "q8",
+    "hit": false
+  },
+  {
+    "strategy": "character",
+    "id": "q9",
+    "hit": true
+  },
+  {
+    "strategy": "character",
+    "id": "q10",
+    "hit": true
+  },
+  {
+    "strategy": "character",
+    "id": "q11",
+    "hit": true
+  },
+  {
+    "strategy": "character",
+    "id": "q12",
+    "hit": true
+  },
+  {
+    "strategy": "character",
+    "id": "q14",
+    "hit": true
+  },
+  {
+    "strategy": "recursive",
+    "id": "q1",
+    "hit": false
+  },
+  {
+    "strategy": "recursive",
+    "id": "q2",
+    "hit": true
+  },
+  {
+    "strategy": "recursive",
+    "id": "q3",
+    "hit": true
+  },
+  {
+    "strategy": "recursive",
+    "id": "q4",
+    "hit": true
+  },
+  {
+    "strategy": "recursive",
+    "id": "q5",
+    "hit": true
+  },
+  {
+    "strategy": "recursive",
+    "id": "q6",
+    "hit": true
+  },
+  {
+    "strategy": "recursive",
+    "id": "q7",
+    "hit": true
+  },
+  {
+    "strategy": "recursive",
+    "id": "q8",
+    "hit": false
+  },
+  {
+    "strategy": "recursive",
+    "id": "q9",
+    "hit": true
+  },
+  {
+    "strategy": "recursive",
+    "id": "q10",
+    "hit": true
+  },
+  {
+    "strategy": "recursive",
+    "id": "q11",
+    "hit": true
+  },
+  {
+    "strategy": "recursive",
+    "id": "q12",
+    "hit": true
+  },
+  {
+    "strategy": "recursive",
+    "id": "q14",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q1",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q2",
+    "hit": false
+  },
+  {
+    "strategy": "token",
+    "id": "q3",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q4",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q5",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q6",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q7",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q8",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q9",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q10",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q11",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q12",
+    "hit": true
+  },
+  {
+    "strategy": "token",
+    "id": "q14",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q1",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q2",
+    "hit": false
+  },
+  {
+    "strategy": "section",
+    "id": "q3",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q4",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q5",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q6",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q7",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q8",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q9",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q10",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q11",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q12",
+    "hit": true
+  },
+  {
+    "strategy": "section",
+    "id": "q14",
+    "hit": true
+  }
+]
